@@ -1,0 +1,4 @@
+Dicky perubahan
+- Konsisten untuk belajar 2 kali seminggu
+- Mempelajari GitHub
+- Mempelajari Android Studio
